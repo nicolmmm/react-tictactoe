@@ -1,0 +1,20 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.box {
+  height: 33.3%;
+  width: 33.3%;
+  border: 1px black solid;
+  box-sizing: border-box;
+  font-size: xx-large;
+}
+
+.board {
+  height: 400px;
+  width: 400px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
